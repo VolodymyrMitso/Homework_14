@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/d_size_20dp"
+    android:paddingRight="@dimen/d_size_20dp"
+    android:paddingLeft="@dimen/d_size_20dp">
+
+    <TextView
+        android:id="@+id/tv_LastRebootTime"
+        style="@style/stl_tv"/>
+    <TextView
+        android:id="@+id/tv_HeadphoneState"
+        style="@style/stl_tv"/>
+    <TextView
+        android:id="@+id/tv_LastIncomingCallTime"
+        style="@style/stl_tv"/>
+    <TextView
+        android:id="@+id/tv_LastIncomingCallPhone"
+        style="@style/stl_tv"/>
+    <TextView
+        android:id="@+id/tv_ChargeLevel"
+        style="@style/stl_tv"/>
+    <TextView
+        android:id="@+id/tv_ChargeState"
+        style="@style/stl_tv"/>
+
+</LinearLayout>
