@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework_14</string>
+
+    <string name="s_headphoneOn">headphone on</string>
+    <string name="s_headphoneOff">headphone off</string>
+    <string name="s_chargeOn">charge on</string>
+    <string name="s_chargeOff">charge off</string>
+    <string name="s_percent">%</string>
+    <string name="s_noCalls">there are no incoming calls</string>
+</resources>
